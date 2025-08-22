@@ -1,6 +1,6 @@
 # StockTracker: Interactive Stock & Portfolio Dashboard
 
-StockTracker is an interactive Python dashboard built with Streamlit. It allows users to analyze individual stocks, track portfolio performance, and explore key financial metrics such as Moving Averages, RSI, Sharpe Ratio, and Max Drawdown.
+StockTracker is an interactive Python dashboard built with Streamlit. It allows users to analyse individual stocks, track portfolio performance, and explore key financial metrics such as Moving Averages, RSI, Sharpe Ratio, and Max Drawdown.
 
 ## Features
 
